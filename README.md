@@ -1,6 +1,10 @@
 # Newsletter
 A repository to coordinate the OSM Newsletter.
 
+## Subscribing
+
+Sign up using [this link](http://eepurl.com/cLgi2z).
+
 ## Suggesting a Story
 
 ### Via email
